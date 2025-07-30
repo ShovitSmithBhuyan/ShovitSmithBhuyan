@@ -21,13 +21,13 @@
 ---
 
 ### 🌐 Let's Connect
-- 📧 Email: [shovitsmith@example.com](mailto:shovitbhuyan569@gmail.com)
+- 📧 Email: [shovitbhuyan569@gmail.com](mailto:shovitbhuyan569@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/shovitsmith](https://linkedin.com/in/shovitsmith)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shovitsmithbhuyan&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shovitsmithbhuyan&show_icons=true&theme=github_dark" alt="Shovit's GitHub stats" />
 </p>
 
 ---
